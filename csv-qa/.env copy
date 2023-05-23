@@ -1,0 +1,2 @@
+#source venv/scripts/activate
+OPENAI_API_KEY
